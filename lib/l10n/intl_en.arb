@@ -1,0 +1,122 @@
+{
+"@@locale": "en",
+	"seeAll": "See All",
+	"enterNumber" : "Enter your phone number";
+      "verifyNumber " : "${AppName} will need to verify your phone number.";
+      "carrierCharge" : "Carrier charges may apply";
+      "enterOtp" : "Enter OTP";
+      var "provideOtp" = (number)  => "Provide the OTP sent to $number";
+      "otpPlease" : "Please Enter OTP";
+      "validOtp" : "Provide valid OTP code";
+      "cancel" : "Cancel";
+      "verify" : "Verify";
+      "next" : "Next";
+      "phoneNumber" : "phone number";
+      "profileInfo" : "Profile info";
+      "provideInfo" :   "Please provide your name and an optional profile photo.";
+      "yourName" : "Type your name here";
+      "enterName" : "Please enter your name";
+      "deleteMsg" : "Delete conversation";
+      "sureDeleteMsg" : "Are you sure!! You want to delete this conversation";
+      "yes" : "Yes";
+      "no" : "No";
+      "stories " : "Stories";
+      "myStatus " : 'My Status';
+      "status " : 'Status';
+      " addStatus " : 'Tap to add status update';
+      " userProfile " : "User Profile";
+      " name " : "Name";
+      " about " : "About";
+      " number " : "Number";
+      " save " : "Save";
+      var enterField " : (field) " :> 'Enter your ${field.toLowerCase()}';
+    
+      //Account
+      " account " : "Accounts";
+      " proceed " : "Proceed";
+      " changeNumber " : "Change Number";
+      " needtoVerify " : "Verify Number";
+      " requestInfo " : "Request account info";
+      " proceedToVerify " : "Proceed to verify";
+      " deleteMyAccount " : "Delete my account";
+      " deleteAccount " : "Delete Account";
+      " migrateAccount " :
+          "Changing your phone number will migrate your account info,groups & settings.";
+      " verifyNewNumber " :
+          "Before proceeding, please confirm that you are able to receive SMS or calls at your new number";
+      " changeOldPhone " :
+          "If you have both a new phone & a new number,first change your number on your old phone.";
+      " enterOldNumber " : "Enter your old phone number with country code";
+      " enterNewNumber " : "Enter your new phone number with country code";
+      " clickproceedToVerify " :
+          "if you want to edit number then press back/cancel. Click on 'Proceed' to verify number.";
+      " clickToDelete " : "Click to delete your account";
+      " sendOtp " : "Send OTP";
+    
+      //Help Screen
+      " help " : "Help";
+      " helpCenter " : "Help Center";
+      " contactUs " : "Contact us";
+      " howToHelp " : "Tell us how we can help";
+      " deviceIfo " : "Include device information? (optional)";
+      " techDetails " :
+          "Technical details like your model and settings can help us answer your question.";
+      " respondInChat " : "We will respond to you in a $AppName chat";
+      " termPolicy " : "Terms and Privacy Policy";
+      " appMessanger " : AppName + " Messenger";
+      " onward " : "2022-onwards $AppName.inc";
+      " appInfo " : "App Info";
+    
+      //Utils
+      " camera " : "Camera";
+      " gallery " : "Gallery";
+      " location " : "Location";
+      " document " : "Documents";
+      " audio " : "Audio";
+      " contact " : "Contact";
+      " selectContact " : "Select Contact";
+      " photoLibrary " : "Photo Library";
+      " shareContact " : "Share contact";
+      " sendContact " : "Send this selected contact?";
+      " send " : "Send";
+    
+      //Qr code Screen
+      " qrCode " : "QR Code";
+      " myQR " : "My QR";
+      " scanQR " : "Scan QR";
+      " privateQR " :
+          "Your QR code is private. If you share it with someone, they can scan if with their $AppName camera to add you as a contact.";
+      " imageSaved " : "Image successfully saved to gallery";
+      " scanCode " : "Scan Code";
+      var inviteMessage " : (bool condition) " :> condition ? "Message" : "Invite";
+    
+      //SettingScreen
+      " chats " : "Chats";
+      " fromCompany " : "From\n$AppName";
+    
+      //MapScreen
+      " keepOpen " : "Keep open";
+      " goBack " : "Go Back";
+      " lastLocation " : "Last Location";
+      " activeLocation " : "Active Location";
+      " stoppedLocation " : "Location Sharing stopped";
+      " stopFromSender " : "Sender has Stopped live location.";
+      " activlyLocation " : "Actively Sharing Location";
+    
+      " sharingEnded " : "Location Sharing ended";
+      " shareLocation " : "Share Live Location";
+    
+      " sharingStop " : "Stop Sharing";
+      " nearby " : "NearBy Place";
+      " sendLocation " : "Send your current location";
+      " comment " : "Comments";
+    
+    
+    
+      //
+      " comingSoon " : "Coming soon";
+      " backup " : "Backup";
+      " backupData " : "Backup Data";
+      " restore " : "Restore";
+      " restoreData " : "Restore Data";
+}
